@@ -1,7 +1,7 @@
 {
   "name": "job_portal",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/mahisrivastava1218"
   },
-  "author": "",
+  "author": "mahi",
   "license": "ISC",
   "description": "",
   "dependencies": {

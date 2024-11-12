@@ -5,7 +5,7 @@
 import swaggerDoc from 'swagger-jsdoc';
 import swaggerUi from 'swagger-ui-express';
 import express from 'express';
-import xss from 'xss';
+// import xss from 'xss';
 import mongosanitize from 'express-mongo-sanitize';
 import'express-async-errors'; //automatically handle error replace try catch
 import dotenv from 'dotenv';
