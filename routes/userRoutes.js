@@ -1,6 +1,6 @@
 import express from "express"
 import { updateUserController } from "../controllers/userController.js";
-import userAuth from "../middlewares/authmiddleware.js";
+import userAuth from "../middlewares/authMiddleware.js";
 
 //user api
 //router object
