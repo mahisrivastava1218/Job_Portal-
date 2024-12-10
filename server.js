@@ -94,8 +94,3 @@ app.listen(PORT, ()=>{
 //test - normal testi 
 //src- any src/public/views - optional
 //assets - add any assets image/video
-// i2OG6ihykbA6cpJ0  
-// "MongoDB: Connect" on the Command Palette and click on "Connect with Connection String."
-// mongodb+srv://priyanshisrivastava708016:<db_password>@cluster0.0hh7m.mongodb.net/
-
-
